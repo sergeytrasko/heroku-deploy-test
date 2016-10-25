@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sergeytrasko/heroku-deploy-test",
   "engines": {
-    "node": "4.1.1"
+    "node": "6.5.0"
   },
   "dependencies": {
     "express": "^4.14.0"
